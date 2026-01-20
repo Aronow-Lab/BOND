@@ -11,7 +11,7 @@ BOND is a system for mapping free-text biological terms to standardized ontology
 
 ## 📓 Example Notebooks
 
-- **Reranker Trained Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1USKLEtyWmbvzOM3ZlkUYDg3EUcMRC1MQ#scrollTo=XncLH-gHbRLD) - Fine-tuned BOND reranker model
+- **Reranker Trained Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1USKLEtyWmbvzOM3ZlkUYDg3EUcMRC1MQ#scrollTo=QRdu0nhobRLA) - Fine-tuned BOND reranker model
 - **Train Your Own Reranker**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qq0FolMY8GfLdxXnfvgdPJnx1rCzUgUy?usp=sharing) - Complete guide with dataset structure, configuration, and training instructions
 
 ## 🎯 Overview
