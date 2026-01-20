@@ -386,7 +386,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Repository**: [github.com/Aronow-Lab/BOND](https://github.com/Aronow-Lab/BOND)
-**Benchmark Dataset**: [huggingface.co/datasets/AronowLab/bond-czi-benchmark](https://huggingface.co/datasets/AronowLab/bond-czi-benchmark)
-**Reranker Model**: [huggingface.co/AronowLab/BOND-reranker](https://huggingface.co/AronowLab/BOND-reranker)
-**Authors**: [Pankaj Rajdeo](https://github.com/pankajrajdeo), [Rupesh Gelal](https://github.com/rgrupesh)
+- **Repository**: [github.com/Aronow-Lab/BOND](https://github.com/Aronow-Lab/BOND)
+- **Benchmark Dataset**: [huggingface.co/datasets/AronowLab/bond-czi-benchmark](https://huggingface.co/datasets/AronowLab/bond-czi-benchmark)
+- **Reranker Model**: [huggingface.co/AronowLab/BOND-reranker](https://huggingface.co/AronowLab/BOND-reranker)
+- **Authors**: [Pankaj Rajdeo](https://github.com/pankajrajdeo), [Rupesh Gelal](https://github.com/rgrupesh)

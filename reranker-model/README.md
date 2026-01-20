@@ -151,8 +151,8 @@ After downloading from Hugging Face, this directory should contain:
 
 If you want to train a custom reranker model, see the comprehensive training guide:
 
-- **Training Notebook**: [BOND_Reranker_Training_Example.ipynb](../notebooks/BOND_Reranker_Training_Example.ipynb) - Complete step-by-step guide
-- **Original Training Notebook**: [Open in Colab](https://colab.research.google.com/drive/1USKLEtyWmbvzOM3ZlkUYDg3EUcMRC1MQ#scrollTo=QRdu0nhobRLA)
+- **Training Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qq0FolMY8GfLdxXnfvgdPJnx1rCzUgUy#scrollTo=Hrcwgbzfg48R) - Complete step-by-step guide
+- **Original Training Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1USKLEtyWmbvzOM3ZlkUYDg3EUcMRC1MQ#scrollTo=QRdu0nhobRLA) - Fine-tuned BOND reranker model
 
 ### Quick Training Overview
 
